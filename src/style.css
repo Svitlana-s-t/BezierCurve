@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+	overflow-y: hidden;
+}
+
+#modal {
+	position: fixed;
+	top: 30px;
+	right: 30px;
+	width: 200px;
+	height: 200px;
+	background: #e2fffe;
+}
+
+#modal table td {
+	border: 1px solid gray;
+	padding: 10px;
+}
